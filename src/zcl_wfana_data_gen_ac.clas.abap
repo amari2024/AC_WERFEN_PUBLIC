@@ -20,7 +20,7 @@ class zcl_wfana_data_gen_ac implementation.
 *local_last_changed_by : abp_locinst_lastchange_user;
 *local_last_changed_at : abp_locinst_lastchange_tstmpl;
 *last_changed_at       : abp_lastchange_tstmpl;
-
+*new code
  data: lt_acc_categ type table of ZWA_TB_ACC_CATEG,
           lt_catego    type table of ZWA_TB_CATEG,
           lt_clientes  type table of ZWA_TB_CLIENTES,
